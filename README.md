@@ -1,6 +1,6 @@
 # Lite-Core
 
-**Lite-Core** is a lightweight core used for script prototyping within the FiveM framework. Designed to be minimalistic yet powerful, Lite-Core helps you get your scripts up and running quickly without unnecessary overhead. This core script leverages `ox_lib` as its only dependency to keep things simple and efficient.
+**Lite-Core** is a lightweight core used for script prototyping within the FiveM. Designed to be minimalistic yet powerful, Lite-Core helps you get your scripts up and running quickly without unnecessary overhead. This core script leverages `ox_lib` as its only dependency to keep things simple and efficient.
 
 ## Features
 
