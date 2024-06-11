@@ -42,7 +42,7 @@
 
 ## Usage
 
-After installing and starting Lite-Core, you can begin using it to prototype your scripts. The core provides essential functionalities needed for script development, allowing you to focus on building and testing your ideas.
+After installing and starting Lite-Core, you can begin using it to prototype your scripts. The core provides essential functionalities needed for script development, allowing you to focus on building and testing your ideas. Instead of using a traditional database to store data, Lite-Core utilizes FiveM's native KVPs (Key-Value Pairs) to store character and vehicle data, simplifying data management and improving performance.
 
 ## Contributing
 
@@ -65,6 +65,10 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 ## Contact
 
 For any questions or support, feel free to open an issue or contact me directly on discord `izolox#0`.
+
+---
+
+**Note:** Detailed documentation for Lite-Core is currently in progress and will be made available soon. Stay tuned!
 
 ---
 
